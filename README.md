@@ -6,3 +6,4 @@ contains:
      
   UI version 1.0 
   RGB testing
+  I2C MUX testing with colour sensors
