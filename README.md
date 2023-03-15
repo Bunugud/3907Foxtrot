@@ -5,5 +5,6 @@ Alex's repository
 contains:     
      
   UI version 1.0 
-  RGB testing
-  I2C MUX testing with colour sensors
+  Nathan's circuit video
+  
+  everything else does not work
