@@ -8,4 +8,7 @@ contains:
   
   Nathan's circuit video
   
-  everything else does not work
+  rgb hell works with multiplexing
+  
+  ignore_me is just me saving my work, will hopefully work
+  
