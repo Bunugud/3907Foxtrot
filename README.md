@@ -8,7 +8,7 @@ contains:
   
   Nathan's circuit video
   
-  rgb hell works with multiplexing
+  rgb hell works with charlieplexing
   
   ignore_me is just me saving my work, will hopefully work
   
